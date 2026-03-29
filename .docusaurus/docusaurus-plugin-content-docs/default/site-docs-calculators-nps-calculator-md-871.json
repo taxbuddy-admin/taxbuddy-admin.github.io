@@ -1,0 +1,28 @@
+{
+  "id": "calculators/nps-calculator",
+  "title": "NPS Calculator",
+  "description": "Calculate your NPS retirement corpus, monthly pension income, and tax benefits by inputting age, contributions, and return expectations — delivering actionable insights to future-proof your retirement strategy.",
+  "source": "@site/docs/calculators/nps-calculator.md",
+  "sourceDirName": "calculators",
+  "slug": "/calculators/nps-calculator",
+  "permalink": "/calculators/nps-calculator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/taxbuddy-admin/taxbuddy-admin.github.io/edit/main/docs/calculators/nps-calculator.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "NPS Calculator"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pension Calculator",
+    "permalink": "/calculators/pension-calculator"
+  },
+  "next": {
+    "title": "NPS Calculator V1",
+    "permalink": "/calculators/nps-calculator-v1"
+  }
+}

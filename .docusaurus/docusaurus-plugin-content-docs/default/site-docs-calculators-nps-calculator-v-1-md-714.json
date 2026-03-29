@@ -1,0 +1,28 @@
+{
+  "id": "calculators/nps-calculator-v1",
+  "title": "NPS Calculator V1",
+  "description": "An enhanced NPS calculator that projects month-by-month contributions, monthly interest accrual, monthly corpus updates, and yearly summaries. Supports all NPS investment classes:",
+  "source": "@site/docs/calculators/nps-calculator-v1.md",
+  "sourceDirName": "calculators",
+  "slug": "/calculators/nps-calculator-v1",
+  "permalink": "/calculators/nps-calculator-v1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/taxbuddy-admin/taxbuddy-admin.github.io/edit/main/docs/calculators/nps-calculator-v1.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "NPS Calculator V1"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NPS Calculator",
+    "permalink": "/calculators/nps-calculator"
+  },
+  "next": {
+    "title": "EPF Calculator",
+    "permalink": "/calculators/epf-calculator"
+  }
+}

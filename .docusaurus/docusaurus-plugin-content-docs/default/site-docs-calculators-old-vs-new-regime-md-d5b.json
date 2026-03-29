@@ -1,0 +1,24 @@
+{
+  "id": "calculators/old-vs-new-regime",
+  "title": "Old vs New Tax Regime",
+  "description": "Calculate and benchmark tax obligations under both regimes with real-time slab rate application and deduction analysis — empowering strategic tax planning decisions that maximize take-home income based on individual financial profiles.",
+  "source": "@site/docs/calculators/old-vs-new-regime.md",
+  "sourceDirName": "calculators",
+  "slug": "/calculators/old-vs-new-regime",
+  "permalink": "/calculators/old-vs-new-regime",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/taxbuddy-admin/taxbuddy-admin.github.io/edit/main/docs/calculators/old-vs-new-regime.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Old vs New Tax Regime"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Form 12BB Calculator",
+    "permalink": "/calculators/form-12bb-calculator"
+  }
+}

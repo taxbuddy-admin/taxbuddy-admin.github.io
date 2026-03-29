@@ -1,0 +1,28 @@
+{
+  "id": "calculators/epf-calculator-v1",
+  "title": "EPF Calculator V1",
+  "description": "An enhanced EPF calculator that accepts inputs like present EPF balance, monthly contributions, salary growth, ages, and interest rate — projecting:",
+  "source": "@site/docs/calculators/epf-calculator-v1.md",
+  "sourceDirName": "calculators",
+  "slug": "/calculators/epf-calculator-v1",
+  "permalink": "/calculators/epf-calculator-v1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/taxbuddy-admin/taxbuddy-admin.github.io/edit/main/docs/calculators/epf-calculator-v1.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "EPF Calculator V1"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EPF Calculator",
+    "permalink": "/calculators/epf-calculator"
+  },
+  "next": {
+    "title": "Form 12BB Calculator",
+    "permalink": "/calculators/form-12bb-calculator"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/-0b6": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---aba-d70"
+    }
+  },
+  "/-97f": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
+  },
+  "/-e5a": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/calculators/epf-calculator-201": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---calculators-epf-calculatorac-1-c3c"
+  },
+  "/calculators/epf-calculator-v1-2df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---calculators-epf-calculator-v-11-a-9-875"
+  },
+  "/calculators/form-12bb-calculator-8b1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---calculators-form-12-bb-calculatorc-67-cfa"
+  },
+  "/calculators/nps-calculator-6ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---calculators-nps-calculator-871-b03"
+  },
+  "/calculators/nps-calculator-v1-8da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---calculators-nps-calculator-v-1714-235"
+  },
+  "/calculators/old-vs-new-regime-752": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---calculators-old-vs-new-regimed-5-b-bbb"
+  },
+  "/calculators/pension-calculator-f66": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---calculators-pension-calculator-4-a-9-539"
+  },
+  "/-fc9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---0-e-3-279"
+  }
+}

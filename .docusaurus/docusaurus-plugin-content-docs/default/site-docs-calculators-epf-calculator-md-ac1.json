@@ -1,0 +1,28 @@
+{
+  "id": "calculators/epf-calculator",
+  "title": "EPF Calculator",
+  "description": "Calculate retirement savings from EPF by inputting current age, basic salary, contribution percentages, and expected retirement age — delivering precise corpus projections that empower informed decisions on voluntary contributions and financial security planning.",
+  "source": "@site/docs/calculators/epf-calculator.md",
+  "sourceDirName": "calculators",
+  "slug": "/calculators/epf-calculator",
+  "permalink": "/calculators/epf-calculator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/taxbuddy-admin/taxbuddy-admin.github.io/edit/main/docs/calculators/epf-calculator.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "EPF Calculator"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NPS Calculator V1",
+    "permalink": "/calculators/nps-calculator-v1"
+  },
+  "next": {
+    "title": "EPF Calculator V1",
+    "permalink": "/calculators/epf-calculator-v1"
+  }
+}

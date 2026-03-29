@@ -1,0 +1,28 @@
+{
+  "id": "calculators/form-12bb-calculator",
+  "title": "Form 12BB Calculator",
+  "description": "Generate comprehensive Form 12BB declarations by consolidating tax-saving investments across 80C, 80D, HRA, and LTA — delivering precise deduction amounts that optimize take-home salary and eliminate tax calculation errors.",
+  "source": "@site/docs/calculators/form-12bb-calculator.md",
+  "sourceDirName": "calculators",
+  "slug": "/calculators/form-12bb-calculator",
+  "permalink": "/calculators/form-12bb-calculator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/taxbuddy-admin/taxbuddy-admin.github.io/edit/main/docs/calculators/form-12bb-calculator.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Form 12BB Calculator"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EPF Calculator V1",
+    "permalink": "/calculators/epf-calculator-v1"
+  },
+  "next": {
+    "title": "Old vs New Tax Regime",
+    "permalink": "/calculators/old-vs-new-regime"
+  }
+}

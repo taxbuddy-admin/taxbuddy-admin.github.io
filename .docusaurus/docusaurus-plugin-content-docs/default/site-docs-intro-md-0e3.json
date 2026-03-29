@@ -1,0 +1,25 @@
+{
+  "id": "intro",
+  "title": "Getting started",
+  "description": "Welcome to the TaxBuddy developer portal. This documentation covers the APIs available to authorised integration partners.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/taxbuddy-admin/taxbuddy-admin.github.io/edit/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Getting started",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Pension Calculator",
+    "permalink": "/calculators/pension-calculator"
+  }
+}

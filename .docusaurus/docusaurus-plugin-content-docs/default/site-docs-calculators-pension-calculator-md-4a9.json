@@ -1,0 +1,28 @@
+{
+  "id": "calculators/pension-calculator",
+  "title": "Pension Calculator",
+  "description": "Calculate taxable and exempt pension amounts for commuted or uncommuted pension payments — enabling accurate tax compliance and retirement income optimization for government and private sector retirees.",
+  "source": "@site/docs/calculators/pension-calculator.md",
+  "sourceDirName": "calculators",
+  "slug": "/calculators/pension-calculator",
+  "permalink": "/calculators/pension-calculator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/taxbuddy-admin/taxbuddy-admin.github.io/edit/main/docs/calculators/pension-calculator.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Pension Calculator"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting started",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "NPS Calculator",
+    "permalink": "/calculators/nps-calculator"
+  }
+}
